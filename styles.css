@@ -8,17 +8,7 @@ body {
   text-align: center;
   color: white;
 }
-.column {
-  float: left;
-  width: 33.33%;
-}
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 
 .titan-background {
@@ -135,12 +125,12 @@ a {
 code {
   display: block;
   box-sizing: border-box;
-  text-align: left;
+  text-align: center;
   font-size: 18px;
   width: 100%;
   padding: 16px 24px;
-  background: rgba(44, 37, 44, 0.8);
-  border: 1px solid #7f797f;
+  background: rgba(30, 14, 68, 0.8);
+  border: 1px solid #e8f574;
   border-radius: 8px;
   margin-bottom: 16px;
 }
